@@ -3,6 +3,8 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/5621/badge)](https://www.bestpractices.dev/projects/5621)
 
+--format json
+
 # H1
 ## H2
 ### H3
